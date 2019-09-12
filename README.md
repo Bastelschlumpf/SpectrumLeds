@@ -34,16 +34,18 @@ The main component of the systems are:
 ### Part and Shopping list
 Here are some sample shopping items. Please check the details if everything is correct.
 
-|Label              |Price         |Image                                    | Sample URL           |
-|-------------------|--------------|-----------------------------------------|----------------------|
-|NodeMCU-32S        |12 CHF        | ![NodeMCU](images/NodeMCU.png)          | https://www.bastelgarage.ch/nodemcu-32s-esp32-wifi-bluetooth-entwicklungs-board |
-|WS2812B 60LED      |52 CHF 14 pcs | ![RGB LED](images/WS2812B.png)          | https://www.bastelgarage.ch/ws2812b-60led-m-led-neopixel-strip-0-165m?search=ws2812b |
-|MAX4466 microphone |6 CHF         | ![Microphone](images/Microphone.png)    | https://www.bastelgarage.ch/max4466-mikrofon-verstarker-modul-mit-poti?search=max4466 |
-|5V 20A AC/DC       |30 CHF        | ![Power Supply](images/PowerSupply.png) | https://www.bastelgarage.ch/5v-20a-ac-dc-100w-schaltnetzteil-s-100-5?search=5v%20100w |
-|1000uF Capacitor   |2 CHF 2 pcs   | ![Capacitor](images/Capacitor.png)      | https://www.bastelgarage.ch/elektrolyt-kondensator-1000-f-25-v?search=1000 |
-|100 Ohm resistor   |1 CHF         | ![Resistor](images/Resistor.png)        | https://www.amazon.de/Metallfilm-Widerstand-100-Ohm-Stück/dp/B00AES20G0/ref=sr_1_3_sspa |
-|Diode              |1 CHF         | ![Diode](images/Diode.png)              | https://www.amazon.de/1N4007-Diode-Gleichrichterdiode-1000-Stück/dp/B017HTKGL4/ref=sr_1_1 |
+|Label                |Price         |Image                                    | Sample URL           |
+|---------------------|--------------|-----------------------------------------|----------------------|
+|NodeMCU-32S          |12 CHF        | ![NodeMCU](images/NodeMCU.png)          | https://www.bastelgarage.ch/nodemcu-32s-esp32-wifi-bluetooth-entwicklungs-board |
+|WS2812B 140 RGB LEDs |52 CHF 14 pcs | ![RGB LED](images/WS2812B.png)          | https://www.bastelgarage.ch/ws2812b-60led-m-led-neopixel-strip-0-165m?search=ws2812b |
+|MAX4466 microphone   |6 CHF         | ![Microphone](images/Microphone.png)    | https://www.bastelgarage.ch/max4466-mikrofon-verstarker-modul-mit-poti?search=max4466 |
+|5V 20A AC/DC         |30 CHF        | ![Power Supply](images/PowerSupply.png) | https://www.bastelgarage.ch/5v-20a-ac-dc-100w-schaltnetzteil-s-100-5?search=5v%20100w |
+|1000uF Capacitor     |2 CHF 2 pcs   | ![Capacitor](images/Capacitor.png)      | https://www.bastelgarage.ch/elektrolyt-kondensator-1000-f-25-v?search=1000 |
+|100 Ohm resistor     |1 CHF         | ![Resistor](images/Resistor.png)        | https://www.amazon.de/Metallfilm-Widerstand-100-Ohm-Stück/dp/B00AES20G0/ref=sr_1_3_sspa |
+|Diode                |1 CHF         | ![Diode](images/Diode.png)              | https://www.amazon.de/1N4007-Diode-Gleichrichterdiode-1000-Stück/dp/B017HTKGL4/ref=sr_1_1 |
 
+140 x WS2812B RGB LED means ~ 140 x 63 mA = 8.82 A.
+You can use a power supply with less power (10A should be enough).
 The material price should be approx. **100 CHF**.
 
 ### Thanks
