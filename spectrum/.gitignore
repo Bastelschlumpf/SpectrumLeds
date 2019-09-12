@@ -1,0 +1,21 @@
+## OS specific ########
+.DS_Store
+.fuse_hidden*
+
+## Project files ######
+ConfigOverride.h
+
+## Doxygen generated files ######
+html
+
+## Doxygen generated files ######
+-Libs
+
+## Doxygen generated files ######
+-Doc
+
+## Visual Studio temp files ##
+.vs
+tracker.vcxproj.filters
+tracker.vcxproj.user
+
